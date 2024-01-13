@@ -1,5 +1,7 @@
 # LeapYear
 
+Java ile kullanıcının girdiği yılın artık olup olmadığını bulan programı yazınız.
+
 ## What is Leap Year?
 
 A leap year is a year with 366 days instead of 365 in the Gregorian calendar. This extra day (leap day) is obtained by adding February 29 to February, which normally has 28 days.
