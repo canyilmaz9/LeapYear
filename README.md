@@ -1,6 +1,6 @@
 # LeapYear
 
-Java ile kullanıcının girdiği yılın artık olup olmadığını bulan programı yazınız.
+Write a program in Java to find out whether the year entered by the user is a leap year.
 
 ## What is Leap Year?
 
